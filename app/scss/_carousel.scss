@@ -1,0 +1,42 @@
+.carousel {
+    .carousel-control-prev {
+        width: 6%;
+    }
+    .carousel-control-prev-icon {
+        background: url("/img/prev-btn.svg") center center no-repeat;
+    }
+    .carousel-control-next {
+        width: 6%;
+    }
+    .carousel-control-next-icon {
+        background: url("/img/next-btn.svg") center center no-repeat;
+    }
+
+    .sub-title {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 140%;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .desc {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 140%;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    .carousel-indicators {
+        .line {
+        width: 100px;
+        height: 6px;
+        border: 1px;
+        border-radius: 6px;
+    }
+    }
+}

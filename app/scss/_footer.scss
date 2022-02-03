@@ -1,0 +1,109 @@
+.footer {
+  .footer-container {
+    padding-top: 48px;
+
+    .footer-nav {
+      padding: 113px 0 94px 0;
+
+      .title {
+        padding-bottom: 42px;
+      }
+    }
+
+    .contact-link {
+      padding-bottom: 8px;
+      padding: 113px 185px 95px 95px;
+      background: url("/img/gradient-footer.png") center center no-repeat;
+      background-size: cover;
+
+      .contact {
+        padding-bottom: 18px;
+
+        .phone {
+          padding-bottom: 18px;
+        }
+
+        .phone-text {
+          font-family: Lato;
+          font-style: normal;
+          font-weight: normal;
+          font-size: 16px;
+          line-height: 140%;
+          color: #FFFEFE;
+        }
+
+        .mail {
+          padding-bottom: 18px;
+        }
+
+        .mail-text {
+          font-family: Lato;
+          font-style: normal;
+          font-weight: normal;
+          font-size: 16px;
+          line-height: 140%;
+          color: #FFFEFE;
+        }
+
+        .adress {
+          padding-bottom: 18px;
+        }
+
+        .adress-text {
+          font-family: Lato;
+          font-style: normal;
+          font-weight: normal;
+          font-size: 16px;
+          line-height: 140%;
+          color: #FFFEFE;
+        }
+
+        .pr-icon {
+          font-family: Font Awesome 5 Free;
+          padding-right: 16px;
+          font-style: normal;
+          font-weight: 900;
+          font-size: 16px;
+          line-height: 140%;
+          color: #FFFEFE;
+        }
+      }
+    }
+  }
+
+  .footer-list {
+    padding-bottom: 42px;
+
+    .footer-item {
+      padding-bottom: 8px;
+
+      .footer-link {
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 140%;
+        color: #607080;
+      }
+    }
+  }
+  .footer-logo {
+    padding-top: 62px;
+    .facebook-link {
+      padding-right: 22px;
+    }
+    .facebook-logo {
+      border-radius: 50%;
+    }
+    .twitter-link {
+      padding-right: 22px;
+    }
+    .twitter-logo {
+      border-radius: 50%;
+    }
+    .instagram-logo {
+      border-radius: 50%;
+    }
+
+  }
+}
